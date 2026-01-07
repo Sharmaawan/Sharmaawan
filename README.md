@@ -1,90 +1,108 @@
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Awantika+Sharma+👋;AI/ML+Developer+%7C+Android+%7C+Full-Stack;Building+Intelligent+and+Impactful+AI+Solutions+🚀;Exploring+Quantum+Computing+⚛️">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Awantika+Sharma+👋;AI/ML+Developer+%7C+Android+%7C+Full-Stack;Building+AI+Solutions+That+Matter+🚀;Exploring+Quantum+Computing+⚛️">
+</p>
+
+<!-- Floating Icons Animation -->
+<p align="center">
+  <img src="https://github.com/ashutosh1919/ashutosh1919/raw/master/assets/rotating_logo.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="500"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRal8EOgka4/giphy.gif" width="80"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 🎓 B.Tech CSE (AIML) | Centurion University  
-💡 AI/ML Developer with experience building conversational and vision-based systems  
-📱 Developing solutions across Web, Android, and AI platforms  
-⚛️ Currently diving into **Quantum Computing** & **Qiskit**  
-🌱 Passionate about combining tech + innovation to solve real-life problems  
+💡 Passionate AI/ML Developer building smart systems  
+📱 Working across Web, Android, and Data Intelligence  
+⚛️ Currently exploring **Quantum Computing + Qiskit**  
+🔥 Loves turning ideas into real-world applications  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,androidstudio,flutter,firebase,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,androidstudio,flutter,firebase,mysql,tensorflow,git,linux" />
+</p>
+
+<!-- Badge Line Animation -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%F0%9F%A4%97-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-%F0%9F%93%9A-green?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔬 Featured Projects
+## 🚀 Featured Projects
 
 🤖 **AI Medical Diagnosis Chatbot (In Progress)**  
-- Chatbot trained on medical datasets for symptom-based diagnosis  
-- Integrates ML classification models + RAG approach with medical knowledge  
-- Goal: Assist early-stage triage and awareness (non-clinical)
+- Machine-learning powered symptom checker  
+- Uses ML classification + RAG  
+- Goal: Early guidance, awareness & triage
 
 🖼️ **Conversational Image Recognition Chatbot**  
-- Users upload images & chat about them  
-- Combines **Gemini Flash 1.5** + vision models  
-- Enables intelligent replies from visual context
+- Upload images → Ask questions  
+- Uses **Gemini Flash 1.5 + Vision models**  
+- Real-time conversational responses
 
 📚 **Smart GK Bot**  
-- Answers 1000+ GK questions  
-- NLP powered with **TF-IDF + cosine similarity**  
-- Deployed as Telegram bot
+- 1000+ GK responses  
+- TF-IDF + Cosine similarity  
+- Deployed on Telegram
 
 📱 **CEN Skill Connect App**  
-- Android-based skill development app for students  
-- Curated technical + soft skill learning modules
+- Mobile app to upskill students  
+- Includes curated learning journeys
 
-🔍 **Quantum Computing Explorations (Current Learning)**  
-- Studying quantum gates, superposition & entanglement  
-- Implementing Qiskit programs including:
-  - Deutsch’s Algorithm
-  - Quantum Random Number Generator
-  - Grover/DJ basics coming next
+🧮 **SMO – Sequential Minimal Optimization**  
+- Implemented SMO to train **SVMs efficiently**  
+- Faster alternative vs quadratic programming  
+- Explores kernels + margin maximization
+
+🔍 **Quantum Computing Exploration**  
+- Running programs in **Qiskit**:  
+  ✓ Deutsch Algorithm  
+  ✓ Quantum Random Number Generator  
+  ✓ Superposition + Measurement  
+  ✓ Grover next loading...
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharaawan&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharaawan&theme=tokyonight" height="160"/>
 </p>
 
----
+<!-- Trophy Board (Animated Style) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sharaawan&theme=tokyonight&column=6&no-frame=true" />
+</p>
 
-## 🏆 Hackathons & Achievements
-🏅 Hack-A-Tone – ARIES (IIT Delhi AI/ML Society)  
-🚦 Road Safety Hackathon – HOAI  
-💡 Rapid Innovation Challenge – Team Lead  
-🤝 Multiple AI/ML internship and teamwork experience  
+<!-- Moving Snake -->
+<p align="center">
+  <img src="https://github.com/Sharaawan/Sharaawan/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharmaawan&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/awantika-sharma-06116a274"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:awantikasharma786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="www.linkedin.com/in/awantika-sharma-06116a274"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:awantikasharma786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="150"/>
 </p>
 
 <p align="center">⭐ “Code. Learn. Innovate.” ⭐</p>
-
-<!-- Optional Extras -->
-<!-- Visitors Counter -->
-<!-- ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge) -->
-
-<!-- Trophy Board -->
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true) -->
