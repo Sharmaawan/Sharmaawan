@@ -1,108 +1,101 @@
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Awantika+Sharma+👋;AI/ML+Developer+%7C+Android+%7C+Full-Stack;Building+AI+Solutions+That+Matter+🚀;Exploring+Quantum+Computing+⚛️">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Hi+I'm+Awantika+Sharma+👋;AI%2FML+Developer+%7C+Android+%7C+Full-Stack;Building+AI+Solutions+That+Matter+🚀;Exploring+Quantum+Computing+⚛️" />
 </p>
 
-<!-- Floating Icons Animation -->
+<!-- Gradient Wave -->
 <p align="center">
-  <img src="https://github.com/ashutosh1919/ashutosh1919/raw/master/assets/rotating_logo.gif" width="80"/>
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="500"/>
-  <img src="https://media.giphy.com/media/l0HlQ7LRal8EOgka4/giphy.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
----
 
 ## 👩‍💻 About Me
-🎓 B.Tech CSE (AIML) | Centurion University  
-💡 Passionate AI/ML Developer building smart systems  
-📱 Working across Web, Android, and Data Intelligence  
-⚛️ Currently exploring **Quantum Computing + Qiskit**  
-🔥 Loves turning ideas into real-world applications  
+🎓 B.Tech CSE (AIML)  
+💡 AI/ML Developer building real-world products  
+🤖 Working on Intelligent Chatbots & Image-based apps  
+⚛️ Currently learning **Quantum Computing + Qiskit**  
+🚀 Turning ideas → impactful projects  
+
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,androidstudio,flutter,firebase,mysql,tensorflow,git,linux" />
-</p>
-
-<!-- Badge Line Animation -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-%F0%9F%A4%97-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-%F0%9F%93%9A-green?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,androidstudio,firebase,mysql,tensorflow,git,figma,linux" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🤖 **AI Medical Diagnosis Chatbot (In Progress)**  
-- Machine-learning powered symptom checker  
-- Uses ML classification + RAG  
-- Goal: Early guidance, awareness & triage
+### 🤖 AI Medical Diagnosis Chatbot *(In Progress)*
+- Early-stage symptom assessment  
+- RAG + classification ML models  
+- Helps users get preliminary health insight  
 
-🖼️ **Conversational Image Recognition Chatbot**  
-- Upload images → Ask questions  
-- Uses **Gemini Flash 1.5 + Vision models**  
-- Real-time conversational responses
+### 🖼️ Conversational Image Recognition Chatbot
+- Upload images → chat about content  
+- Powered by **Gemini Flash 1.5 + Vision Models**  
 
-📚 **Smart GK Bot**  
-- 1000+ GK responses  
-- TF-IDF + Cosine similarity  
-- Deployed on Telegram
+### 📚 Smart GK Bot
+- Answers **1000+ GK questions**  
+- TF-IDF + Cosine Similarity  
+- Live on Telegram  
 
-📱 **CEN Skill Connect App**  
-- Mobile app to upskill students  
-- Includes curated learning journeys
+### 📱 CEN Skill Connect App
+- Android app helping students skill up  
+- Interactive learning & tasks  
 
-🧮 **SMO – Sequential Minimal Optimization**  
-- Implemented SMO to train **SVMs efficiently**  
-- Faster alternative vs quadratic programming  
-- Explores kernels + margin maximization
+### 🧮 SMO – Sequential Minimal Optimization
+- Implemented SMO to train SVMs efficiently  
+- Faster convergence than traditional quadratic solvers  
 
-🔍 **Quantum Computing Exploration**  
-- Running programs in **Qiskit**:  
-  ✓ Deutsch Algorithm  
-  ✓ Quantum Random Number Generator  
-  ✓ Superposition + Measurement  
-  ✓ Grover next loading...
+### 🔍 Quantum Computing Exploration
+- Qiskit circuits + algorithms:
+  ✓ Deutsch’s Algorithm  
+  ✓ QRNG  
+  ✓ Entanglement Experiments  
+  ✦ Grover coming soon  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharaawan&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharaawan&theme=tokyonight" height="160"/>
-</p>
-
-<!-- Trophy Board (Animated Style) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharaawan&theme=tokyonight&column=6&no-frame=true" />
-</p>
-
-<!-- Moving Snake -->
-<p align="center">
-  <img src="https://github.com/Sharaawan/Sharaawan/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AwantikaSharma&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwantikaSharma&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 Achievements & Hackathons
+🏅 Hack-a-Tone @ ARIES (IIT Delhi)  
+🚦 Road Safety Hackathon – HOAI  
+💡 CMRIT Rapid Innovation – Team Lead  
+
+---
+
+## 🌈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharmaawan&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwantikaSharma&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Snake Animation  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AwantikaSharma/AwantikaSharma/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/awantika-sharma-06116a274"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://www.linkedin.com/in/awantika-sharma-06116a274"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="mailto:awantikasharma786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<p align="center">⭐ “Code. Learn. Innovate.” ⭐</p>
+<p align="center">✨ “Code. Learn. Innovate.” ✨</p>
